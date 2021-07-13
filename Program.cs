@@ -6,6 +6,7 @@ namespace HelloWorld
     {
         static void Main(string[] args)
         {
+            // added my commentsgit git
             Console.WriteLine("What is your name?");
             var name = Console.ReadLine();
             var currentDate = DateTime.Now;
